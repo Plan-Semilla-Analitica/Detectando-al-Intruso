@@ -1,5 +1,5 @@
-# Reto 2 - Detectando al Intruso
+# Reto No. 2 - Detectando al Intruso
 ## Realizado por:
-* Andres Ruiz
-* Daniela Ruiz
-* Sergio Peña
+* Sergio Alejandro Peña Pinto
+* Andrés David Ruiz Fierro
+* Daniela Ruiz Valencia
